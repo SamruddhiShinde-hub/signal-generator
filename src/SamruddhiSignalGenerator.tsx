@@ -922,7 +922,7 @@ export default function SignalUI() {
 
       {/* Header */}
       <div style={S.header}>
-        <h1 style={S.h1}>📈 Stock Signal Generator</h1>
+        <h1 style={S.h1}>📈 Stock Samruddhi Signal Generator</h1>
         <div style={S.subtitle}>AI-Powered NSE Stock Analysis</div>
       </div>
 
